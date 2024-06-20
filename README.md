@@ -1,2 +1,2 @@
 # Cpp_Exercises
- My Exercises on C++
+This repository contains my exercises on C++ programming language.
