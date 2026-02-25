@@ -1,2 +1,4 @@
 # Cpp_Exercises
-This repository contains my exercises on C++ programming language.
+In this repository, I hold my C++ exercises.<br>
+Many files were written for learning some concepts only.<br>
+All codes in problem solution folders were just coded for competitive programming and focused on time instead of readability.
